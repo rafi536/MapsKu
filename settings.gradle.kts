@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MapsKu"
+rootProject.name = "VaporWave"
 include(":app")
- 
